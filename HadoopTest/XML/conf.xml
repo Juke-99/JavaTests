@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<property>
+		<name>color</name>
+		<value>yellow</value>
+		<description>Color</description>
+		<final>true</final>
+	</property>
+	
+	<property>
+		<name>conf</name>
+		<value>year!! configuration!!</value>
+		<description>OK</description>
+	</property>
+	
+	<property>
+		<name>test.port</name>
+		<value>hdfs://localhost:9999</value>
+		<description>true</description>
+	</property>
+	
+	<property>
+		<name>number</name>
+		<value>1000</value>
+		<description>unit</description>
+	</property>
+</configuration>
