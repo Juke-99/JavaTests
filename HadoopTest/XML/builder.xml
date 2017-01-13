@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<parameter name="provide">
+	<map name="map1">
+		<key>interval</key>
+		<!-- Comment!! -->
+		<value>3</value>
+	</map>
+	
+	<map name="map2">
+		<key>instance</key>
+		<value>1</value>
+	</map>
+</parameter>
